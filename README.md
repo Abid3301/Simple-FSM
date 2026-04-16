@@ -1,4 +1,4 @@
-# Simple-FSM
+# Simulating a Simple Cache Controller FSM
 FSM-Based Direct-Mapped Cache Controller
 # Prerequisites
 Ensure you have a Python 3.10+ environment installed. This simulation utilizes modern Python features like **dataclasses** and **enums** for architectural clarity.
